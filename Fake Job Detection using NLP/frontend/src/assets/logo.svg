@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <!-- Shield -->
+  <path d="M24 4L6 12v12c0 11 18 18 18 18s18-7 18-18V12L24 4z" fill="#1D4ED8" opacity="0.12"/>
+  <path d="M24 4L6 12v12c0 11 18 18 18 18s18-7 18-18V12L24 4z" stroke="#1D4ED8" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Magnifying glass -->
+  <circle cx="22" cy="22" r="7" stroke="#1D4ED8" stroke-width="2.2" fill="none"/>
+  <line x1="27" y1="27" x2="33" y2="33" stroke="#1D4ED8" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Checkmark inside lens -->
+  <polyline points="18.5,22 21,24.5 25.5,19.5" stroke="#10B981" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

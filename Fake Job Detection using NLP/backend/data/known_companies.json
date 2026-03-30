@@ -1,0 +1,907 @@
+[
+    {
+        "name": "Google",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Microsoft",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Amazon",
+        "industry": "E-commerce/Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Apple",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Meta",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Facebook",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Netflix",
+        "industry": "Entertainment",
+        "country": "USA"
+    },
+    {
+        "name": "Tesla",
+        "industry": "Automotive/Energy",
+        "country": "USA"
+    },
+    {
+        "name": "NVIDIA",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Intel",
+        "industry": "Semiconductors",
+        "country": "USA"
+    },
+    {
+        "name": "IBM",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Oracle",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Salesforce",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Adobe",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Uber",
+        "industry": "Transportation",
+        "country": "USA"
+    },
+    {
+        "name": "Lyft",
+        "industry": "Transportation",
+        "country": "USA"
+    },
+    {
+        "name": "Airbnb",
+        "industry": "Hospitality",
+        "country": "USA"
+    },
+    {
+        "name": "Spotify",
+        "industry": "Entertainment",
+        "country": "Sweden"
+    },
+    {
+        "name": "Twitter",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "LinkedIn",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Snap Inc",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "PayPal",
+        "industry": "Finance",
+        "country": "USA"
+    },
+    {
+        "name": "Stripe",
+        "industry": "Finance",
+        "country": "USA"
+    },
+    {
+        "name": "Square",
+        "industry": "Finance",
+        "country": "USA"
+    },
+    {
+        "name": "Goldman Sachs",
+        "industry": "Finance",
+        "country": "USA"
+    },
+    {
+        "name": "JPMorgan Chase",
+        "industry": "Finance",
+        "country": "USA"
+    },
+    {
+        "name": "Morgan Stanley",
+        "industry": "Finance",
+        "country": "USA"
+    },
+    {
+        "name": "Deloitte",
+        "industry": "Consulting",
+        "country": "USA"
+    },
+    {
+        "name": "McKinsey & Company",
+        "industry": "Consulting",
+        "country": "USA"
+    },
+    {
+        "name": "PwC",
+        "industry": "Consulting",
+        "country": "UK"
+    },
+    {
+        "name": "KPMG",
+        "industry": "Consulting",
+        "country": "Netherlands"
+    },
+    {
+        "name": "Ernst & Young",
+        "industry": "Consulting",
+        "country": "UK"
+    },
+    {
+        "name": "Accenture",
+        "industry": "Consulting",
+        "country": "Ireland"
+    },
+    {
+        "name": "Tata Consultancy Services",
+        "industry": "IT Services",
+        "country": "India"
+    },
+    {
+        "name": "TCS",
+        "industry": "IT Services",
+        "country": "India"
+    },
+    {
+        "name": "Infosys",
+        "industry": "IT Services",
+        "country": "India"
+    },
+    {
+        "name": "Wipro",
+        "industry": "IT Services",
+        "country": "India"
+    },
+    {
+        "name": "HCL Technologies",
+        "industry": "IT Services",
+        "country": "India"
+    },
+    {
+        "name": "Tech Mahindra",
+        "industry": "IT Services",
+        "country": "India"
+    },
+    {
+        "name": "Cognizant",
+        "industry": "IT Services",
+        "country": "USA"
+    },
+    {
+        "name": "Capgemini",
+        "industry": "IT Services",
+        "country": "France"
+    },
+    {
+        "name": "Reliance Industries",
+        "industry": "Conglomerate",
+        "country": "India"
+    },
+    {
+        "name": "Tata Motors",
+        "industry": "Automotive",
+        "country": "India"
+    },
+    {
+        "name": "Mahindra & Mahindra",
+        "industry": "Automotive",
+        "country": "India"
+    },
+    {
+        "name": "Bajaj Auto",
+        "industry": "Automotive",
+        "country": "India"
+    },
+    {
+        "name": "HDFC Bank",
+        "industry": "Banking",
+        "country": "India"
+    },
+    {
+        "name": "ICICI Bank",
+        "industry": "Banking",
+        "country": "India"
+    },
+    {
+        "name": "State Bank of India",
+        "industry": "Banking",
+        "country": "India"
+    },
+    {
+        "name": "Axis Bank",
+        "industry": "Banking",
+        "country": "India"
+    },
+    {
+        "name": "Kotak Mahindra Bank",
+        "industry": "Banking",
+        "country": "India"
+    },
+    {
+        "name": "Flipkart",
+        "industry": "E-commerce",
+        "country": "India"
+    },
+    {
+        "name": "Swiggy",
+        "industry": "Food Delivery",
+        "country": "India"
+    },
+    {
+        "name": "Zomato",
+        "industry": "Food Delivery",
+        "country": "India"
+    },
+    {
+        "name": "Paytm",
+        "industry": "Finance",
+        "country": "India"
+    },
+    {
+        "name": "PhonePe",
+        "industry": "Finance",
+        "country": "India"
+    },
+    {
+        "name": "Razorpay",
+        "industry": "Finance",
+        "country": "India"
+    },
+    {
+        "name": "BYJU'S",
+        "industry": "EdTech",
+        "country": "India"
+    },
+    {
+        "name": "Ola",
+        "industry": "Transportation",
+        "country": "India"
+    },
+    {
+        "name": "Zoho",
+        "industry": "Technology",
+        "country": "India"
+    },
+    {
+        "name": "Freshworks",
+        "industry": "Technology",
+        "country": "India"
+    },
+    {
+        "name": "Myntra",
+        "industry": "E-commerce",
+        "country": "India"
+    },
+    {
+        "name": "Samsung",
+        "industry": "Electronics",
+        "country": "South Korea"
+    },
+    {
+        "name": "Sony",
+        "industry": "Electronics",
+        "country": "Japan"
+    },
+    {
+        "name": "Toyota",
+        "industry": "Automotive",
+        "country": "Japan"
+    },
+    {
+        "name": "Honda",
+        "industry": "Automotive",
+        "country": "Japan"
+    },
+    {
+        "name": "BMW",
+        "industry": "Automotive",
+        "country": "Germany"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "industry": "Automotive",
+        "country": "Germany"
+    },
+    {
+        "name": "Siemens",
+        "industry": "Engineering",
+        "country": "Germany"
+    },
+    {
+        "name": "SAP",
+        "industry": "Technology",
+        "country": "Germany"
+    },
+    {
+        "name": "Volkswagen",
+        "industry": "Automotive",
+        "country": "Germany"
+    },
+    {
+        "name": "Unilever",
+        "industry": "Consumer Goods",
+        "country": "UK"
+    },
+    {
+        "name": "Nestle",
+        "industry": "Food & Beverage",
+        "country": "Switzerland"
+    },
+    {
+        "name": "Procter & Gamble",
+        "industry": "Consumer Goods",
+        "country": "USA"
+    },
+    {
+        "name": "Johnson & Johnson",
+        "industry": "Healthcare",
+        "country": "USA"
+    },
+    {
+        "name": "Pfizer",
+        "industry": "Pharmaceuticals",
+        "country": "USA"
+    },
+    {
+        "name": "Coca-Cola",
+        "industry": "Beverages",
+        "country": "USA"
+    },
+    {
+        "name": "PepsiCo",
+        "industry": "Beverages",
+        "country": "USA"
+    },
+    {
+        "name": "Nike",
+        "industry": "Apparel",
+        "country": "USA"
+    },
+    {
+        "name": "Adidas",
+        "industry": "Apparel",
+        "country": "Germany"
+    },
+    {
+        "name": "McDonald's",
+        "industry": "Food & Beverage",
+        "country": "USA"
+    },
+    {
+        "name": "Starbucks",
+        "industry": "Food & Beverage",
+        "country": "USA"
+    },
+    {
+        "name": "Walmart",
+        "industry": "Retail",
+        "country": "USA"
+    },
+    {
+        "name": "Target",
+        "industry": "Retail",
+        "country": "USA"
+    },
+    {
+        "name": "Costco",
+        "industry": "Retail",
+        "country": "USA"
+    },
+    {
+        "name": "Disney",
+        "industry": "Entertainment",
+        "country": "USA"
+    },
+    {
+        "name": "Warner Bros",
+        "industry": "Entertainment",
+        "country": "USA"
+    },
+    {
+        "name": "Boeing",
+        "industry": "Aerospace",
+        "country": "USA"
+    },
+    {
+        "name": "Lockheed Martin",
+        "industry": "Defense",
+        "country": "USA"
+    },
+    {
+        "name": "General Electric",
+        "industry": "Conglomerate",
+        "country": "USA"
+    },
+    {
+        "name": "3M",
+        "industry": "Manufacturing",
+        "country": "USA"
+    },
+    {
+        "name": "FedEx",
+        "industry": "Logistics",
+        "country": "USA"
+    },
+    {
+        "name": "UPS",
+        "industry": "Logistics",
+        "country": "USA"
+    },
+    {
+        "name": "Dell Technologies",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "HP",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Cisco",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Qualcomm",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "AMD",
+        "industry": "Semiconductors",
+        "country": "USA"
+    },
+    {
+        "name": "VMware",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "ServiceNow",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Snowflake",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Databricks",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Palantir",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "CrowdStrike",
+        "industry": "Cybersecurity",
+        "country": "USA"
+    },
+    {
+        "name": "Palo Alto Networks",
+        "industry": "Cybersecurity",
+        "country": "USA"
+    },
+    {
+        "name": "Splunk",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Atlassian",
+        "industry": "Technology",
+        "country": "Australia"
+    },
+    {
+        "name": "Shopify",
+        "industry": "E-commerce",
+        "country": "Canada"
+    },
+    {
+        "name": "Twilio",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "HubSpot",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Slack",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Zoom",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Dropbox",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "GitHub",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "GitLab",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "MongoDB",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Elastic",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Confluent",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "HashiCorp",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Cloudflare",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "DigitalOcean",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Roblox",
+        "industry": "Gaming",
+        "country": "USA"
+    },
+    {
+        "name": "Epic Games",
+        "industry": "Gaming",
+        "country": "USA"
+    },
+    {
+        "name": "Electronic Arts",
+        "industry": "Gaming",
+        "country": "USA"
+    },
+    {
+        "name": "Valve",
+        "industry": "Gaming",
+        "country": "USA"
+    },
+    {
+        "name": "Riot Games",
+        "industry": "Gaming",
+        "country": "USA"
+    },
+    {
+        "name": "Citi",
+        "industry": "Finance",
+        "country": "USA"
+    },
+    {
+        "name": "Citibank",
+        "industry": "Finance",
+        "country": "USA"
+    },
+    {
+        "name": "Bank of America",
+        "industry": "Finance",
+        "country": "USA"
+    },
+    {
+        "name": "Wells Fargo",
+        "industry": "Finance",
+        "country": "USA"
+    },
+    {
+        "name": "American Express",
+        "industry": "Finance",
+        "country": "USA"
+    },
+    {
+        "name": "Visa",
+        "industry": "Finance",
+        "country": "USA"
+    },
+    {
+        "name": "Mastercard",
+        "industry": "Finance",
+        "country": "USA"
+    },
+    {
+        "name": "Barclays",
+        "industry": "Finance",
+        "country": "UK"
+    },
+    {
+        "name": "HSBC",
+        "industry": "Finance",
+        "country": "UK"
+    },
+    {
+        "name": "Deutsche Bank",
+        "industry": "Finance",
+        "country": "Germany"
+    },
+    {
+        "name": "UBS",
+        "industry": "Finance",
+        "country": "Switzerland"
+    },
+    {
+        "name": "Credit Suisse",
+        "industry": "Finance",
+        "country": "Switzerland"
+    },
+    {
+        "name": "BlackRock",
+        "industry": "Finance",
+        "country": "USA"
+    },
+    {
+        "name": "Fidelity",
+        "industry": "Finance",
+        "country": "USA"
+    },
+    {
+        "name": "Vanguard",
+        "industry": "Finance",
+        "country": "USA"
+    },
+    {
+        "name": "Charles Schwab",
+        "industry": "Finance",
+        "country": "USA"
+    },
+    {
+        "name": "Robinhood",
+        "industry": "Finance",
+        "country": "USA"
+    },
+    {
+        "name": "Coinbase",
+        "industry": "Finance",
+        "country": "USA"
+    },
+    {
+        "name": "LG",
+        "industry": "Electronics",
+        "country": "South Korea"
+    },
+    {
+        "name": "Hyundai",
+        "industry": "Automotive",
+        "country": "South Korea"
+    },
+    {
+        "name": "Huawei",
+        "industry": "Technology",
+        "country": "China"
+    },
+    {
+        "name": "Alibaba",
+        "industry": "E-commerce",
+        "country": "China"
+    },
+    {
+        "name": "Tencent",
+        "industry": "Technology",
+        "country": "China"
+    },
+    {
+        "name": "ByteDance",
+        "industry": "Technology",
+        "country": "China"
+    },
+    {
+        "name": "Baidu",
+        "industry": "Technology",
+        "country": "China"
+    },
+    {
+        "name": "Xiaomi",
+        "industry": "Electronics",
+        "country": "China"
+    },
+    {
+        "name": "Sun Pharma",
+        "industry": "Pharmaceuticals",
+        "country": "India"
+    },
+    {
+        "name": "Cipla",
+        "industry": "Pharmaceuticals",
+        "country": "India"
+    },
+    {
+        "name": "Dr. Reddy's",
+        "industry": "Pharmaceuticals",
+        "country": "India"
+    },
+    {
+        "name": "Larsen & Toubro",
+        "industry": "Engineering",
+        "country": "India"
+    },
+    {
+        "name": "ITC Limited",
+        "industry": "Conglomerate",
+        "country": "India"
+    },
+    {
+        "name": "Asian Paints",
+        "industry": "Manufacturing",
+        "country": "India"
+    },
+    {
+        "name": "Hindustan Unilever",
+        "industry": "Consumer Goods",
+        "country": "India"
+    },
+    {
+        "name": "Bharti Airtel",
+        "industry": "Telecom",
+        "country": "India"
+    },
+    {
+        "name": "Jio",
+        "industry": "Telecom",
+        "country": "India"
+    },
+    {
+        "name": "Vodafone",
+        "industry": "Telecom",
+        "country": "UK"
+    },
+    {
+        "name": "AT&T",
+        "industry": "Telecom",
+        "country": "USA"
+    },
+    {
+        "name": "Verizon",
+        "industry": "Telecom",
+        "country": "USA"
+    },
+    {
+        "name": "T-Mobile",
+        "industry": "Telecom",
+        "country": "USA"
+    },
+    {
+        "name": "SpaceX",
+        "industry": "Aerospace",
+        "country": "USA"
+    },
+    {
+        "name": "Blue Origin",
+        "industry": "Aerospace",
+        "country": "USA"
+    },
+    {
+        "name": "Palantir Technologies",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "DoorDash",
+        "industry": "Food Delivery",
+        "country": "USA"
+    },
+    {
+        "name": "Instacart",
+        "industry": "E-commerce",
+        "country": "USA"
+    },
+    {
+        "name": "Reddit",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Pinterest",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Canva",
+        "industry": "Technology",
+        "country": "Australia"
+    },
+    {
+        "name": "Notion",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Figma",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Vercel",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "Supabase",
+        "industry": "Technology",
+        "country": "USA"
+    },
+    {
+        "name": "OpenAI",
+        "industry": "AI",
+        "country": "USA"
+    },
+    {
+        "name": "Anthropic",
+        "industry": "AI",
+        "country": "USA"
+    },
+    {
+        "name": "DeepMind",
+        "industry": "AI",
+        "country": "UK"
+    },
+    {
+        "name": "Waymo",
+        "industry": "Autonomous Vehicles",
+        "country": "USA"
+    },
+    {
+        "name": "Cruise",
+        "industry": "Autonomous Vehicles",
+        "country": "USA"
+    }
+]
